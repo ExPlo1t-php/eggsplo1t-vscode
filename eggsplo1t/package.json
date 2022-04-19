@@ -1,0 +1,21 @@
+{
+    "name": "eggsplo1t",
+    "displayName": "EggsPlo1t",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "EggsPlo1t",
+                "uiTheme": "vs-dark",
+                "path": "./themes/EggsPlo1t-color-theme.json"
+            }
+        ]
+    }
+}
