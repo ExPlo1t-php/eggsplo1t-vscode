@@ -1,21 +1,49 @@
 {
-    "name": "eggsplo1t",
-    "displayName": "EggsPlo1t",
-    "description": "",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.66.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "EggsPlo1t",
-                "uiTheme": "vs-dark",
-                "path": "./themes/EggsPlo1t-color-theme.json"
-            }
-        ]
-    }
+	"name": "eggsplo1t",
+	"displayName": "EggsPlo1t",
+	"description": "A purple-ish theme",
+	"version": "0.0.1",
+	"publisher": "ExPlo1t-php",
+	"author": {
+		"email": "younes_tm@outlook.com"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ExPlo1t-php/eggsplo1t-vscode"
+	},
+	"engines": {
+		"vscode": "^1.66.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "EggsPlo1t",
+				"uiTheme": "vs-dark",
+				"path": "./themes/EggsPlo1t-color-theme.json"
+			}
+		]
+	},
+	"bugs": {
+		"url": "https://github.com/ExPlo1t-php/eggsplo1t-vscode/issues",
+		"email": "maneeshaindrachapa@gmail.com"
+	},
+	"keywords": [
+		"Themes",
+		"Dark Theme",
+		"color-theme",
+		"Purple"
+	],
+	"__metadata": {
+		"installedTimestamp": 1650540593578,
+		"id": "1aae24b9-4a47-4ca4-bd82-113a82e6203d",
+		"publisherId": "0552790d-0223-410e-9b27-9b2aae28b92f",
+		"publisherDisplayName": "ExPlo1t-php",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"preRelease": false
+	}
 }

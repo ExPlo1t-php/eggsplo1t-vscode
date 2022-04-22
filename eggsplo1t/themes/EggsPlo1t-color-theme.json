@@ -6,7 +6,7 @@
 		"editor.background": "#0c070f",
 		"editor.foreground": "#ffffff",
 		"activityBarBadge.background": "#6900cc",
-		"sideBarTitle.foreground": "#ffffff",
+		"sideBarTitle.foreground": "#ffff",
 		"sideBar.background": "#1f1427",
 		"input.background":"#442955d7",
 		"focusBorder":"#26182f",
@@ -26,8 +26,8 @@
 		//list
 		"list.hoverBackground":"#492a5c",
 		"list.inactiveSelectionBackground":"#482e57",
-		"list.dropBackground":"#482e57",
-		"list.highlightForeground":"#492a5c",
+		"list.dropBackground":"#44295554",
+		"list.highlightForeground":"#fff",
 		//scrollbar
 		"scrollbar.shadow":"#663d8060",
 		"scrollbarSlider.activeBackground":"#4f2f63",
@@ -35,7 +35,7 @@
 		"scrollbarSlider.hoverBackground":"#492a5c",
 		//editor widget
 		"editorWidget.background":"#351f43",
-		"editorCursor.foreground":"#c05bff",
+		"editorCursor.foreground":"#d289ff",
 		"editorWhitespace.foreground":"#351f43",
 		"editor.lineHighlightBackground":"#351f43",
 		"editor.selectionBackground":"#351f43",
@@ -248,7 +248,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#9d00ff"
+				"foreground": "#e7c1fe"
 			}
 		},
 		{
