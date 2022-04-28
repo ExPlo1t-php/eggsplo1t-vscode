@@ -17,6 +17,7 @@
 	"categories": [
 		"Themes"
 	],
+	"icon": "icons/eggsplo1tu-chan.png",
 	"contributes": {
 		"themes": [
 			{
